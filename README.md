@@ -4,3 +4,5 @@
 
 ![](https://github.com/ppc-ntu-khpi/java-inheritance-vladavasileva/blob/master/images/275px-Panthera_tigris7.jpg)
 
+![](https://github.com/ppc-ntu-khpi/java-inheritance-vladavasileva/blob/master/images/Tiger-Diagram.PNG)
+
